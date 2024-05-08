@@ -13,7 +13,7 @@ This is a quiz application built with JavaScript. The application fetches questi
 
 ## Usage
 
-1. Clone the repository: git clone https://github.com/your-username/quiz-app.git
+1. Clone the repository: git clone https://github.com/Mo2020s/quiz-app.git
    
 2. Navigate to the project directory:
 
