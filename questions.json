@@ -1,0 +1,289 @@
+[
+    {
+        "title": "Who won the 2022 FIFA World Cup?",
+        "answer_1": "Brazil",
+        "answer_2": "France",
+        "answer_3": "Germany",
+        "answer_4": "Argentina",
+        "right_answer":"Argentina"
+    },
+    {
+        "title": "Who is the all-time top scorer in the UEFA Champions League?",
+        "answer_1": "Lionel Messi",
+        "answer_2": "Cristiano Ronaldo",
+        "answer_3": "Raul Gonzalez",
+        "answer_4": "Robert Lewandowski",
+        "right_answer":"Lionel Messi"
+    },
+    {
+        "title": "Which country has won the most World Cups?",
+        "answer_1": "Italy",
+        "answer_2": "Germany",
+        "answer_3": "Brazil",
+        "answer_4": "Argentina",
+        "right_answer":"Brazil"
+    },
+    {
+        "title": "Who won the Golden Boot in the 2022 World Cup?",
+        "answer_1": "Harry Kane",
+        "answer_2": "Kylian Mbappe",
+        "answer_3": "Romelu Lukaku",
+        "answer_4": "Cristiano Ronaldo",
+        "right_answer":"Kylian Mbappe"
+    },
+    {
+        "title": "Which team has won the most English Premier League titles?",
+        "answer_1": "Manchester United",
+        "answer_2": "Liverpool",
+        "answer_3": "Arsenal",
+        "answer_4": "Chelsea",
+        "right_answer":"Manchester United"
+    },
+    
+    {
+        "title": "Who holds the record for the most goals in a single World Cup tournament?",
+        "answer_1": "Gary Lineker",
+        "answer_2": "Pele",
+        "answer_3": "Diego Maradona",
+        "answer_4": "Just Fontaine",
+        "right_answer":"Just Fontaine"
+    },
+    {
+        "title": "Which country hosted the 2018 FIFA World Cup?",
+        "answer_1": "South Africa",
+        "answer_2": "Brazil",
+        "answer_3": "Russia",
+        "answer_4": "Germany",
+        "right_answer":"Brazil"
+    },
+    {
+        "title": "Who is the youngest player to score a goal in a World Cup match?",
+        "answer_1": "Diego Maradona",
+        "answer_2": "Pele",
+        "answer_3": "Lionel Messi",
+        "answer_4": "Michael Owen",
+        "right_answer":"Pele"
+    },
+    {
+        "title": "Which club has won the most UEFA Champions League titles?",
+        "answer_1": "Bayern Munich",
+        "answer_2": "AC Milan",
+        "answer_3": "Real Madrid",
+        "answer_4": "Liverpool",
+        "right_answer":"Real Madrid"
+    },
+    {
+        "title": "Who is the all-time top scorer in the English Premier League?",
+        "answer_1": "Wayne Rooney",
+        "answer_2": "Alan Shearer",
+        "answer_3": "Thierry Henry",
+        "answer_4": "Sergio Aguero",
+        "right_answer":"Alan Shearer"
+    },
+
+
+    {
+        "title": "Who scored the 'Hand of God' goal in the 1986 World Cup?",
+        "answer_1": "Gary Lineker",
+        "answer_2": "Pele",
+        "answer_3": "Diego Maradona",
+        "answer_4": "Zinedine Zidane",
+        "right_answer":"Diego Maradona"
+    },
+    {
+        "title": "Which team won the first ever World Cup in 1930?",
+        "answer_1": "Italy",
+        "answer_2": "Argentina",
+        "answer_3": "Brazil",
+        "answer_4": "Uruguay",
+        "right_answer":"Uruguay"
+    },
+    {
+        "title": "Who is the most capped player in international football?",
+        "answer_1": "Ahmed Hassan",
+        "answer_2": "Cristiano Ronaldo",
+        "answer_3": "Lionel Messi",
+        "answer_4": "Iker Casillas",
+        "right_answer":"Ahmed Hassan"
+    },
+    {
+        "title": "Which team has the most Copa America titles?",
+        "answer_1": "Uruguay",
+        "answer_2": "Argentina",
+        "answer_3": "Brazil",
+        "answer_4": "Chile",
+        "right_answer":"Argentina"
+    },
+    {
+        "title": "Who is the top scorer in a single season in the English Premier League?",
+        "answer_1": "Mohamed Salah",
+        "answer_2": "Alan Shearer",
+        "answer_3": "Luis Suarez",
+        "answer_4": "Halland",
+        "right_answer":"Halland"
+    },
+
+    {
+        "title": "Who scored the fastest goal in World Cup history?",
+        "answer_1": "Hakan Şükür",
+        "answer_2": "Diego Maradona",
+        "answer_3": "Pele",
+        "answer_4": "Zinedine Zidane",
+        "right_answer":"Hakan Şükür"
+    },
+    {
+        "title": "Which country has the most Ballon d'Or winners?",
+        "answer_1": "France",
+        "answer_2": "Brazil",
+        "answer_3": "Argentina",
+        "answer_4": "Portugal",
+        "right_answer":"Argentina"
+    },
+    {
+        "title": "Who is the highest scoring defender in the history of the Premier League?",
+        "answer_1": "Vincent Kompany",
+        "answer_2": "Rio Ferdinand",
+        "answer_3": "Gary Neville",
+        "answer_4": "John Terry",
+        "right_answer":"John Terry"
+    },
+    {
+        "title": "Which team has the most Serie A titles in Italy?",
+        "answer_1": "Juventus",
+        "answer_2": "AC Milan",
+        "answer_3": "Inter Milan",
+        "answer_4": "Roma",
+        "right_answer":"Juventus"
+    },
+    {
+        "title": "Who is the all-time top scorer for the Spanish national team?",
+        "answer_1": "Raul Gonzalez",
+        "answer_2": "David Villa",
+        "answer_3": "Fernando Torres",
+        "answer_4": "Andres Iniesta",
+        "right_answer":"David Villa"
+    },
+
+    {
+        "title": "Who scored the winning goal in the 2010 World Cup final?",
+        "answer_1": "Xavi Hernandez",
+        "answer_2": "David Villa",
+        "answer_3": "Fernando Torres",
+        "answer_4": "Andres Iniesta",
+        "right_answer":"Andres Iniesta"
+    },
+    {
+        "title": "Which team has won the most Bundesliga titles in Germany?",
+        "answer_1": "Bayern Munich",
+        "answer_2": "Borussia Dortmund",
+        "answer_3": "Hamburg SV",
+        "answer_4": "Schalke 04",
+        "right_answer":"Bayern Munich"
+    },
+    {
+        "title": "Who is the all-time top scorer for the French national team?",
+        "answer_1": "Michel Platini",
+        "answer_2": "Zinedine Zidane",
+        "answer_3": "Olivier Giroud",
+        "answer_4": "Kylian Mbappe",
+        "right_answer":"Olivier Giroud"
+    },
+    {
+        "title": "Which team has the most Ligue 1 titles in France?",
+        "answer_1": "Saint-Etienne",
+        "answer_2": "Paris Saint-Germain",
+        "answer_3": "Olympique Marseille",
+        "answer_4": "Olympique Lyon",
+        "right_answer":"Paris Saint-Germain"
+    },
+    {
+        "title": "Who is the all-time top scorer for the Italian national team?",
+        "answer_1": "Luigi Riva",
+        "answer_2": "Roberto Baggio",
+        "answer_3": "Alessandro Del Piero",
+        "answer_4": "Silvio Piola",
+        "right_answer":"Luigi Riva"
+    },
+
+    {
+        "title": "Who is the all-time top scorer for the Brazilian national team?",
+        "answer_1": "Zico",
+        "answer_2": "Pele",
+        "answer_3": "Romario",
+        "answer_4": "Ronaldo",
+        "right_answer":"Pele"
+    },
+    {
+        "title": "Which team has won the most Copa Libertadores titles?",
+        "answer_1": "Club Atletico Independiente",
+        "answer_2": "Boca Juniors",
+        "answer_3": "River Plate",
+        "answer_4": "Santos FC",
+        "right_answer":"Pele"
+    },
+    {
+        "title": "Who is the all-time top scorer for the Argentine national team?",
+        "answer_1": "Hernan Crespo",
+        "answer_2": "Gabriel Batistuta",
+        "answer_3": "Diego Maradona",
+        "answer_4": "Lionel Messi",
+        "right_answer":"Lionel Messi"
+    },
+    {
+        "title": "Which team has the most Primeira Liga titles in Portugal?",
+        "answer_1": "SL Benfica",
+        "answer_2": "FC Porto",
+        "answer_3": "Sporting CP",
+        "answer_4": "Boavista FC",
+        "right_answer":"SL Benfica"
+    },
+    {
+        "title": "Who is the all-time top scorer for the Portuguese national team?",
+        "answer_1": "Pauleta",
+        "answer_2": "Cristiano Ronaldo",
+        "answer_3": "Eusebio",
+        "answer_4": "Luis Figo",
+        "right_answer":"Cristiano Ronaldo"
+    },
+
+    {
+        "title": "Who is the all-time top scorer for the Dutch national team?",
+        "answer_1": "Ruud van Nistelrooy",
+        "answer_2": "Johan Cruyff",
+        "answer_3": "Robin van Persie",
+        "answer_4": "Dennis Bergkamp",
+        "right_answer":"Robin van Persie"
+    },
+    {
+        "title": "Which team has won the most Eredivisie titles in the Netherlands?",
+        "answer_1": "AZ Alkmaar",
+        "answer_2": "PSV Eindhoven",
+        "answer_3": "Feyenoord",
+        "answer_4": "Ajax",
+        "right_answer":"Ajax"
+    },
+    {
+        "title": "Who is the all-time top scorer for the Belgian national team?",
+        "answer_1": "Romelu Lukaku",
+        "answer_2": "Eden Hazard",
+        "answer_3": "Jan Ceulemans",
+        "answer_4": "Paul Van Himst",
+        "right_answer":"Romelu Lukaku"
+    },
+    {
+        "title": "Which team has the most Jupiler Pro League titles in Belgium?",
+        "answer_1": "Club Brugge KV",
+        "answer_2": "RSC Anderlecht",
+        "answer_3": "Standard Liege",
+        "answer_4": "KRC Genk",
+        "right_answer":"RSC Anderlecht"
+    },
+    {
+        "title": "Who is the all-time top scorer for the Swedish national team?",
+        "answer_1": "Gunnar Nordahl",
+        "answer_2": "Sven Rydell",
+        "answer_3": "Zlatan Ibrahimovic",
+        "answer_4": "Henrik Larsson",
+        "right_answer":"Zlatan Ibrahimovic"
+    }
+]
