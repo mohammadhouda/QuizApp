@@ -1,0 +1,283 @@
+[
+    {
+        "title": "Who is considered the founder of the Ford Motor Company?",
+        "answer_1": "Elon Musk",
+        "answer_2": "Henry Ford",
+        "answer_3": "Louis Chevrolet",
+        "answer_4": "Enzo Ferrari",
+        "right_answer": "Henry Ford"
+    },
+    {
+        "title": "Which company produces the Corvette?",
+        "answer_1": "Ford",
+        "answer_2": "Chevrolet",
+        "answer_3": "Dodge",
+        "answer_4": "Toyota",
+        "right_answer": "Chevrolet"
+    },
+    {
+        "title": "What is the full form of SUV in automobile terminology?",
+        "answer_1": "Sport Utility Vehicle",
+        "answer_2": "Super Utility Vehicle",
+        "answer_3": "Sport Use Vehicle",
+        "answer_4": "Super Use Vehicle",
+        "right_answer": "Sport Utility Vehicle"
+    },
+    {
+        "title": "Which company is known for producing the '911' model?",
+        "answer_1": "BMW",
+        "answer_2": "Audi",
+        "answer_3": "Porsche",
+        "answer_4": "Mercedes-Benz",
+        "right_answer": "Porsche"
+    },
+    {
+        "title": "What does the 'EV' stand for in terms of automotive technology?",
+        "answer_1": "Electric Vehicle",
+        "answer_2": "Engine Vehicle",
+        "answer_3": "Eco Vehicle",
+        "answer_4": "Energy Vehicle",
+        "right_answer": "Electric Vehicle"
+    },
+    {
+        "title": "Which company is known for producing the 'Model S'?",
+        "answer_1": "Tesla",
+        "answer_2": "Toyota",
+        "answer_3": "Ford",
+        "answer_4": "Chevrolet",
+        "right_answer": "Tesla"
+    },
+    {
+        "title": "What does the 'MPG' stand for in automotive terminology?",
+        "answer_1": "Miles Per Gallon",
+        "answer_2": "Meters Per Gallon",
+        "answer_3": "Miles Per Gram",
+        "answer_4": "Meters Per Gram",
+        "right_answer": "Miles Per Gallon"
+    },
+    {
+        "title": "Which car brand originates from Italy?",
+        "answer_1": "Toyota",
+        "answer_2": "Hyundai",
+        "answer_3": "Ferrari",
+        "answer_4": "Ford",
+        "right_answer": "Ferrari"
+    },
+    {
+        "title": "What is the full form of ABS in car technology?",
+        "answer_1": "Automatic Brake System",
+        "answer_2": "Automated Balance System",
+        "answer_3": "Anti-lock Braking System",
+        "answer_4": "Automated Braking System",
+        "right_answer": "Anti-lock Braking System"
+    },
+    {
+        "title": "What is the full form of RPM in automotive terminology?",
+        "answer_1": "Revolutions Per Minute",
+        "answer_2": "Rotations Per Minute",
+        "answer_3": "Rounds Per Minute",
+        "answer_4": "Rates Per Minute",
+        "right_answer": "Revolutions Per Minute"
+    },
+    {
+        "title": "Which company is known for producing the 'Civic' model?",
+        "answer_1": "Toyota",
+        "answer_2": "Honda",
+        "answer_3": "Hyundai",
+        "answer_4": "Ford",
+        "right_answer": "Honda"
+    },
+    {
+        "title": "What does the 'AC' stand for in AC motor?",
+        "answer_1": "Alternating Current",
+        "answer_2": "Automatic Control",
+        "answer_3": "Auto Current",
+        "answer_4": "Alternating Control",
+        "right_answer": "Alternating Current"
+    },
+    {
+        "title": "Which car brand originates from Germany?",
+        "answer_1": "Toyota",
+        "answer_2": "Mercedes-Benz",
+        "answer_3": "Ferrari",
+        "answer_4": "Ford",
+        "right_answer": "Mercedes-Benz"
+    },
+    {
+        "title": "What is the full form of GPS in car technology?",
+        "answer_1": "Global Positioning System",
+        "answer_2": "General Positioning System",
+        "answer_3": "Global Placement System",
+        "answer_4": "General Placement System",
+        "right_answer": "Global Positioning System"
+    },
+    {
+        "title": "What is the full form of LED in automotive technology?",
+        "answer_1": "Light Emitting Diode",
+        "answer_2": "Light Energy Diode",
+        "answer_3": "Luminous Emitting Diode",
+        "answer_4": "Luminous Energy Diode",
+        "right_answer": "Light Emitting Diode"
+    },
+    {
+        "title": "Which company is known for producing the 'Mustang' model?",
+        "answer_1": "Chevrolet",
+        "answer_2": "Dodge",
+        "answer_3": "Ford",
+        "answer_4": "Toyota",
+        "right_answer": "Ford"
+    },
+    {
+        "title": "What does the 'ECU' stand for in automotive technology?",
+        "answer_1": "Engine Control Unit",
+        "answer_2": "Electronic Control Unit",
+        "answer_3": "Engine Control Utility",
+        "answer_4": "Electronic Control Utility",
+        "right_answer": "Engine Control Unit"
+    },
+    {
+        "title": "Which car brand originates from Japan?",
+        "answer_1": "BMW",
+        "answer_2": "Toyota",
+        "answer_3": "Audi",
+        "answer_4": "Mercedes-Benz",
+        "right_answer": "Toyota"
+    },
+    {
+        "title": "What is the full form of ICE in car technology?",
+        "answer_1": "Internal Combustion Engine",
+        "answer_2": "Internal Combustion Equipment",
+        "answer_3": "Internal Combustion Energy",
+        "answer_4": "Internal Combustion Emission",
+        "right_answer": "Internal Combustion Engine"
+    },
+    {
+        "title": "What is the full form of RPM in automotive terminology?",
+        "answer_1": "Revolutions Per Minute",
+        "answer_2": "Rotations Per Minute",
+        "answer_3": "Rounds Per Minute",
+        "answer_4": "Rates Per Minute",
+        "right_answer": "Revolutions Per Minute"
+    },
+    {
+        "title": "Which company is known for producing the 'Camry' model?",
+        "answer_1": "Honda",
+        "answer_2": "Toyota",
+        "answer_3": "Ford",
+        "answer_4": "Chevrolet",
+        "right_answer": "Toyota"
+    },
+    {
+        "title": "What does the 'TPMS' stand for in automotive technology?",
+        "answer_1": "Tire Pressure Monitoring System",
+        "answer_2": "Total Power Management System",
+        "answer_3": "Tire Power Management System",
+        "answer_4": "Total Pressure Monitoring System",
+        "right_answer": "Tire Pressure Monitoring System"
+    },
+    {
+        "title": "Which car brand originates from the United States?",
+        "answer_1": "Toyota",
+        "answer_2": "Mercedes-Benz",
+        "answer_3": "Ford",
+        "answer_4": "Ferrari",
+        "right_answer": "Ford"
+    },
+    {
+        "title": "What is the full form of OBD in car technology?",
+        "answer_1": "On-Board Diagnostics",
+        "answer_2": "On-Board Drive",
+        "answer_3": "Off-Board Diagnostics",
+        "answer_4": "Off-Board Drive",
+        "right_answer": "On-Board Diagnostics"
+    },
+    {
+        "title": "What is the full form of FWD in automotive terminology?",
+        "answer_1": "Four Wheel Drive",
+        "answer_2": "Front Wheel Drive",
+        "answer_3": "Four Wheel Differential",
+        "answer_4": "Front Wheel Differential",
+        "right_answer": "Front Wheel Drive"
+    },
+    {
+        "title": "Which company is known for producing the 'Accord' model?",
+        "answer_1": "Toyota",
+        "answer_2": "Honda",
+        "answer_3": "Ford",
+        "answer_4": "Chevrolet",
+        "right_answer": "Honda"
+    },
+    {
+        "title": "What does the 'RPM' stand for in automotive technology?",
+        "answer_1": "Revolutions Per Minute",
+        "answer_2": "Rotations Per Minute",
+        "answer_3": "Rounds Per Minute",
+        "answer_4": "Rates Per Minute",
+        "right_answer": "Revolutions Per Minute"
+    },
+    {
+        "title": "Which car brand originates from South Korea?",
+        "answer_1": "Toyota",
+        "answer_2": "Mercedes-Benz",
+        "answer_3": "Hyundai",
+        "answer_4": "Ford",
+        "right_answer": "Hyundai"
+    },
+    {
+        "title": "What is the full form of VIN in car technology?",
+        "answer_1": "Vehicle Identification Number",
+        "answer_2": "Vehicle Information Number",
+        "answer_3": "Vehicle Identification Node",
+        "answer_4": "Vehicle Information Node",
+        "right_answer": "Vehicle Identification Number"
+    },
+    {
+        "title": "What is the full form of AWD in automotive terminology?",
+        "answer_1": "All Wheel Drive",
+        "answer_2": "Automatic Wheel Drive",
+        "answer_3": "All Wheel Differential",
+        "answer_4": "Automatic Wheel Differential",
+        "right_answer": "All Wheel Drive"
+    },
+    {
+        "title": "Which company is known for producing the 'Charger' model?",
+        "answer_1": "Ford",
+        "answer_2": "Chevrolet",
+        "answer_3": "Dodge",
+        "answer_4": "Toyota",
+        "right_answer": "Dodge"
+    },
+    {
+        "title": "What does the 'EFI' stand for in automotive technology?",
+        "answer_1": "Electronic Fuel Injection",
+        "answer_2": "Engine Fuel Injection",
+        "answer_3": "Electronic Fuel Indicator",
+        "answer_4": "Engine Fuel Indicator",
+        "right_answer": "Electronic Fuel Injection"
+    },
+    {
+        "title": "Which car brand originates from Sweden?",
+        "answer_1": "Toyota",
+        "answer_2": "Mercedes-Benz",
+        "answer_3": "Volvo",
+        "answer_4": "Ford",
+        "right_answer": "Volvo"
+    },
+    {
+        "title": "What is the full form of V8 in car technology?",
+        "answer_1": "Vehicle 8",
+        "answer_2": "Veloce 8",
+        "answer_3": "Vortex 8",
+        "answer_4": "Vantage 8",
+        "right_answer": "Vantage 8"
+    },
+    {
+        "title": "What is the full form of RWD in automotive terminology?",
+        "answer_1": "Rear Wheel Drive",
+        "answer_2": "Real Wheel Drive",
+        "answer_3": "Rear Wheel Differential",
+        "answer_4": "Real Wheel Differential",
+        "right_answer": "Rear Wheel Drive"
+    }
+ 
+]

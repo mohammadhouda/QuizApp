@@ -1,0 +1,284 @@
+[
+    {
+        "title": "Who is considered the father of the computer?",
+        "answer_1": "Bill Gates",
+        "answer_2": "Steve Jobs",
+        "answer_3": "Charles Babbage",
+        "answer_4": "Alan Turing",
+        "right_answer": "Charles Babbage"
+    },
+    {
+        "title": "What language is primarily used for Android app development?",
+        "answer_1": "Swift",
+        "answer_2": "Java",
+        "answer_3": "C#",
+        "answer_4": "JavaScript",
+        "right_answer": "Java"
+    },
+    {
+        "title": "Who is the creator of the Python programming language?",
+        "answer_1": "Guido van Rossum",
+        "answer_2": "Dennis Ritchie",
+        "answer_3": "James Gosling",
+        "answer_4": "Bjarne Stroustrup",
+        "right_answer": "Guido van Rossum"
+    },
+    {
+        "title": "What does HTML stand for?",
+        "answer_1": "Hyper Text Markup Language",
+        "answer_2": "High Text Machine Language",
+        "answer_3": "Hyper Text Machine Language",
+        "answer_4": "High Text Markup Language",
+        "right_answer": "Hyper Text Markup Language"
+    },
+    {
+        "title": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+        "answer_1": "Microsoft",
+        "answer_2": "Atari",
+        "answer_3": "Commodore",
+        "answer_4": "Apple",
+        "right_answer": "Apple"
+    },
+    {
+        "title": "What does URL stand for?",
+        "answer_1": "User Road Locator",
+        "answer_2": "Uniform Resource Locator",
+        "answer_3": "Universal Resource Locator",
+        "answer_4": "Uniform Retrieval Locator",
+        "right_answer": "Uniform Resource Locator"
+    },
+    {
+        "title": "What is the full form of CPU in computer technology?",
+        "answer_1": "Central Processing Unit",
+        "answer_2": "Central Performance Unit",
+        "answer_3": "Computer Processing Unit",
+        "answer_4": "Central Power Unit",
+        "right_answer": "Central Processing Unit"
+    },
+    {
+        "title": "Who is known as the father of Internet?",
+        "answer_1": "Tim Berners-Lee",
+        "answer_2": "Vint Cerf",
+        "answer_3": "Robert E. Kahn",
+        "answer_4": "Bill Gates",
+        "right_answer": "Vint Cerf"
+    },
+    {
+        "title": "Which technology is used in compact discs?",
+        "answer_1": "Mechanical",
+        "answer_2": "Electrical",
+        "answer_3": "Electromagnetic",
+        "answer_4": "Laser",
+        "right_answer": "Laser"
+    },
+    {
+        "title": "What does the 'MP' stand for in MP3?",
+        "answer_1": "Moving Picture",
+        "answer_2": "Music Player",
+        "answer_3": "Multi Pass",
+        "answer_4": "Micro Point",
+        "right_answer": "Moving Picture"
+    },
+    {
+        "title": "Which computer hardware was used in the first generation?",
+        "answer_1": "Transistor",
+        "answer_2": "VLSI",
+        "answer_3": "LSI",
+        "answer_4": "Vacuum Tube",
+        "right_answer": "Vacuum Tube"
+    },
+    {
+        "title": "What does GUI stand for in computer terms?",
+        "answer_1": "Graphical Unifying Interface",
+        "answer_2": "General User Interface",
+        "answer_3": "Graphical User Interface",
+        "answer_4": "General Unifying Interface",
+        "right_answer": "Graphical User Interface"
+    },
+    {
+        "title": "Which protocol is used to send email?",
+        "answer_1": "HTTP",
+        "answer_2": "FTP",
+        "answer_3": "SMTP",
+        "answer_4": "TCP",
+        "right_answer": "SMTP"
+    },
+    {
+        "title": "What does SQL stand for?",
+        "answer_1": "Structured Query Language",
+        "answer_2": "Sequential Query Language",
+        "answer_3": "Simple Query Language",
+        "answer_4": "Structured Quick Language",
+        "right_answer": "Structured Query Language"
+    },
+    {
+        "title": "Who invented the World Wide Web?",
+        "answer_1": "Vint Cerf",
+        "answer_2": "Tim Berners-Lee",
+        "answer_3": "Robert E. Kahn",
+        "answer_4": "Bill Gates",
+        "right_answer": "Tim Berners-Lee"
+    },
+    {
+        "title": "What is the binary system used for in computers?",
+        "answer_1": "To control the CPU",
+        "answer_2": "To perform calculations",
+        "answer_3": "To encode data",
+        "answer_4": "To cool down the system",
+        "right_answer": "To encode data"
+    },
+    {
+        "title": "What is the primary purpose of an operating system?",
+        "answer_1": "Manage hardware resources",
+        "answer_2": "Run applications",
+        "answer_3": "Connect to the internet",
+        "answer_4": "Provide security",
+        "right_answer": "Manage hardware resources"
+    },
+    {
+        "title": "Which language is used for web scripting?",
+        "answer_1": "Python",
+        "answer_2": "Java",
+        "answer_3": "C++",
+        "answer_4": "JavaScript",
+        "right_answer": "JavaScript"
+    },
+    {
+        "title": "What does the HTTP protocol stand for?",
+        "answer_1": "Hyper Text Transfer Protocol",
+        "answer_2": "Hyper Transfer Text Protocol",
+        "answer_3": "Hyper Text Technology Protocol",
+        "answer_4": "Hyper Transfer Technology Protocol",
+        "right_answer": "Hyper Text Transfer Protocol"
+    },
+    {
+        "title": "What is the full form of RAM in computer technology?",
+        "answer_1": "Random Access Memory",
+        "answer_2": "Read Access Memory",
+        "answer_3": "Random Allocation Memory",
+        "answer_4": "Read Allocation Memory",
+        "right_answer": "Random Access Memory"
+    },
+    {
+        "title": "What is the full form of BIOS in computer technology?",
+        "answer_1": "Basic Input Output System",
+        "answer_2": "Binary Input Output System",
+        "answer_3": "Basic Integrated Operating System",
+        "answer_4": "Binary Integrated Operating System",
+        "right_answer": "Basic Input Output System"
+    },
+
+    {
+        "title": "What is the full form of URL in computer technology?",
+        "answer_1": "Uniform Resource Locator",
+        "answer_2": "Universal Retrieval Locator",
+        "answer_3": "Uniform Retrieval Locator",
+        "answer_4": "Universal Resource Locator",
+        "right_answer": "Uniform Resource Locator"
+    },
+    {
+        "title": "What is the primary function of the ALU in a computer?",
+        "answer_1": "Perform arithmetic and logical operations",
+        "answer_2": "Manage memory",
+        "answer_3": "Control input and output devices",
+        "answer_4": "Fetch instructions",
+        "right_answer": "Perform arithmetic and logical operations"
+    },
+    {
+        "title": "Which technology is used to make telephone calls over the Internet possible?",
+        "answer_1": "HTTP",
+        "answer_2": "VoIP",
+        "answer_3": "FTP",
+        "answer_4": "TCP/IP",
+        "right_answer": "VoIP"
+    },
+    {
+        "title": "What does the 'www' stand for in a website's URL?",
+        "answer_1": "World Wide Web",
+        "answer_2": "World Web Wide",
+        "answer_3": "Web World Wide",
+        "answer_4": "Wide World Web",
+        "right_answer": "World Wide Web"
+    },
+    {
+        "title": "What is the name of the network of networks which connects computers worldwide?",
+        "answer_1": "Intranet",
+        "answer_2": "Local Area Network",
+        "answer_3": "Wide Area Network",
+        "answer_4": "Internet",
+        "right_answer": "Internet"
+    },
+    {
+        "title": "What is the full form of AI in technology?",
+        "answer_1": "Artificial Intelligence",
+        "answer_2": "Automated Interface",
+        "answer_3": "Application Interface",
+        "answer_4": "Applied Informatics",
+        "right_answer": "Artificial Intelligence"
+    },
+    {
+        "title": "Which protocol is used for secure communication over a computer network?",
+        "answer_1": "HTTP",
+        "answer_2": "FTP",
+        "answer_3": "HTTPS",
+        "answer_4": "SMTP",
+        "right_answer": "HTTPS"
+    },
+    {
+        "title": "What is the full form of SSD in computer technology?",
+        "answer_1": "Solid State Drive",
+        "answer_2": "Secure Storage Device",
+        "answer_3": "Solid Storage Device",
+        "answer_4": "Secure State Drive",
+        "right_answer": "Solid State Drive"
+    },
+    {
+        "title": "Who is known as the father of Java programming language?",
+        "answer_1": "Guido van Rossum",
+        "answer_2": "Dennis Ritchie",
+        "answer_3": "James Gosling",
+        "answer_4": "Bjarne Stroustrup",
+        "right_answer": "James Gosling"
+    },
+    {
+        "title": "What does the 'CC' stand for in CCleaner?",
+        "answer_1": "Computer Cleaner",
+        "answer_2": "Crap Cleaner",
+        "answer_3": "Cache Cleaner",
+        "answer_4": "Code Cleaner",
+        "right_answer": "Crap Cleaner"
+    },
+    {
+        "title": "What is the full form of HTML in web technology?",
+        "answer_1": "Hyper Text Markup Language",
+        "answer_2": "High Text Markup Language",
+        "answer_3": "Hyper Text Machine Language",
+        "answer_4": "High Text Machine Language",
+        "right_answer": "Hyper Text Markup Language"
+    },
+    {
+        "title": "Which company developed the Windows operating system?",
+        "answer_1": "Apple",
+        "answer_2": "IBM",
+        "answer_3": "Microsoft",
+        "answer_4": "Google",
+        "right_answer": "Microsoft"
+    },
+    {
+        "title": "What does the 'OS' stand for in macOS, iOS, etc.?",
+        "answer_1": "Operating System",
+        "answer_2": "Open Software",
+        "answer_3": "Optimized Software",
+        "answer_4": "Operating Software",
+        "right_answer": "Operating System"
+    },
+    {
+        "title": "What is the full form of PDF in computer technology?",
+        "answer_1": "Printable Document Format",
+        "answer_2": "Portable Document Format",
+        "answer_3": "Printable Data File",
+        "answer_4": "Portable Data File",
+        "right_answer": "Portable Document Format"
+    }
+       
+]

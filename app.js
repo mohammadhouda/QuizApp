@@ -9,45 +9,59 @@ let bulletsEle = document.querySelector(".bullets");
 let theResults = document.querySelector(".results");
 let countDownInterval;
 let countDownEle = document.querySelector(".count-Down");
+let startBtn = document.querySelector(".startBtn");
+let restartBtn = document.querySelector(".restartBtn");
+let questions = [];
+let questionsNum;
+let options = document.querySelector(".category-select");
+
 function getRequest() {
   let myRequest = new XMLHttpRequest();
 
   myRequest.onreadystatechange = function () {
     if (this.readyState === 4 && this.status === 200) {
-      let questions = JSON.parse(this.responseText);
-
-      let questionsNum = questions.length - 25;
-
+      questions = JSON.parse(this.responseText);
+      startBtn.disabled = true;
+      questionsNum = questions.length - 25;
+      currentIndex = 0;
       questions.sort(() => Math.random() - 0.5);
-
-      createBullets(questionsNum);
       addData(questions[currentIndex], questionsNum);
-
-      countDown(5, questionsNum);
-
-      submitBtn.addEventListener("click", () => {
-        clearInterval(countDownInterval);
-        let right_Answer = questions[currentIndex].right_answer;
-        currentIndex++;
-        checkAnswer(right_Answer, questionsNum);
-
-        quizArea.innerHTML = ``;
-        answersArea.innerHTML = ``;
-
-        addData(questions[currentIndex], questionsNum);
-
-        handleBullets();
-
-        showResults(questionsNum);
-        countDown(5, questionsNum);
-      });
+      createBullets(questionsNum);
+      countDown(15, questionsNum);
     }
   };
 
-  myRequest.open("GET", "questions.json", true);
+  myRequest.open("GET", `${options.value}.json`, true);
 
   myRequest.send();
 }
+
+startBtn.addEventListener("click", () => {
+  quizArea.innerHTML = "";
+  answersArea.innerHTML = "";
+  bulletsCont.innerHTML = "";
+  getRequest();
+  submitBtn.disabled = false;
+  submitBtn.style.cursor = "pointer";
+  startBtn.style.display = "none";
+});
+
+submitBtn.addEventListener("click", () => {
+  clearInterval(countDownInterval);
+  let right_Answer = questions[currentIndex].right_answer;
+  currentIndex++;
+  checkAnswer(right_Answer, questionsNum);
+
+  quizArea.innerHTML = ``;
+  answersArea.innerHTML = ``;
+
+  addData(questions[currentIndex], questionsNum);
+
+  handleBullets();
+
+  showResults(questionsNum);
+  countDown(15, questionsNum);
+});
 
 function createBullets(num) {
   count.innerHTML = num;
@@ -64,7 +78,6 @@ function createBullets(num) {
 }
 function addData(questions, count) {
   if (currentIndex < count) {
-    // Check if currentIndex is less than count
     let title = document.createElement("h2");
     let text = document.createTextNode(questions.title);
     title.appendChild(text);
@@ -135,10 +148,9 @@ function handleBullets() {
 function showResults(count) {
   let results;
   if (currentIndex === count) {
-    quizArea.remove();
-    answersArea.remove();
-    submitBtn.remove();
-    bulletsEle.remove();
+    restartBtn.style.display = "block";
+    bulletsCont.innerHTML = ``;
+    countDownEle.innerHTML = ``;
 
     if (rightAnswerCount > count / 2 && rightAnswerCount < 10) {
       results = `<span class="good"> you have good info</span>, ${rightAnswerCount} from ${count}`;
@@ -148,9 +160,6 @@ function showResults(count) {
       results = `<span class="bad"> you have bad info</span>, ${rightAnswerCount} from ${count}`;
     }
     theResults.innerHTML = results;
-    theResults.style.padding = `10px`;
-    theResults.style.backgroundColor = `white`;
-    theResults.style.marginTop = `10px`;
   }
 }
 
@@ -174,4 +183,16 @@ function countDown(duration, count) {
   }
 }
 
-getRequest();
+restartBtn.addEventListener("click", () => {
+  quizArea.innerHTML = ``;
+  answersArea.innerHTML = ``;
+  bulletsCont.innerHTML = ``;
+
+  currentIndex = 0;
+  theResults.innerHTML = ``;
+  rightAnswerCount = 0;
+  clearInterval(countDownInterval);
+  restartBtn.style.display = "none";
+  startBtn.style.display = "block";
+  submitBtn.disabled = true;
+});

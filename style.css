@@ -20,6 +20,7 @@ h2{
     display: flex;
     background-color: #fff;
     padding: 20px;
+    align-items: center;
 }
 
 .category{
@@ -69,7 +70,7 @@ h2{
     top: -2px;
 }
 
-.submitBtn {
+.submitBtn{
     background-color: #0075ff;
     display: block;
     width: 100%;
@@ -79,8 +80,32 @@ h2{
     font-weight: bold;
     font-size: 18px;
     border-radius: 4px;
-    cursor: pointer;
     margin: 20px auto;
+    user-select: none;
+}
+.startBtn {
+    background-color: #0075ff;
+    display: block;
+    padding: 7px 15px;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+.restartBtn{
+    background-color: #0075ff;
+    display: block;
+    padding: 7px 15px;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    display:none;
 }
 
 .submitBtn:focus{
@@ -129,3 +154,10 @@ color: #dc0a0a;
 .results span {
     font-weight: bold;
 }
+
+.results{
+    padding: 10px;
+    background-color: white;
+    margin-top: 10px;
+}
+
